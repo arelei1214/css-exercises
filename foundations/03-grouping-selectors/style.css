@@ -1,0 +1,12 @@
+.clickb,
+.clicky {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, serif;
+}
+.clickb {
+    background-color: black;
+    color: white;
+}
+.clicky {
+    background-color: yellow;
+}
